@@ -1,4 +1,4 @@
-# CSC360 Assignment3: Round Robin CPU Scheduler Simulation by Kanato Sato (V00948631)
+Round Robin CPU Scheduler Simulation 
 ## Task1: Implementaion of Round Robin CPU-Scheduler Simulator in C language
 Task1 is a Round Robin CPU-Scheduler simulator.
 To test out my simulator, you need to have my *rrsim.c*,*makefile*,*linkedlist.c*,*linkedlist.h*,*simgen.c*
